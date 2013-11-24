@@ -1,0 +1,175 @@
+  195  git clone https://github.com/CharlieTruong/CLI-Obstacle-Course.git
+  196  ls
+  197  mv Downloads/
+  198  mv --help
+  199  mv /CLI-Obstacle-Course /Downloads
+  200  mv CLI-Obstacle-Course/ Downloads/
+  201  ls
+  202  cd Downloads
+  203  ls
+  204  cd
+  205  ls
+  206  mv CLI-Obstacle-Course/ Downloads/CLI-Obstacle-Course
+  207  ls
+  208  cd Downloads
+  209  ls
+  210  cd CLI-Obstacle-Course
+  211  find
+  212  grep
+  213  ls
+  214  ls
+  215  cd CLI-Obstacle-Course
+  216  ls
+  217  mv ./ ../
+  218  cd
+  219  ls
+  220  cd Downloads
+  221  ls
+  222  cd CLI-Obstacle-Course
+  223  ls
+  224  mv ./ ../Downloads/
+  225  mv ./ ../Downloads
+  226  mv ./ ../Downloads/CLI-Obstacle-Coursev2
+  227  mv CLI-Obstacle_course/ ../
+  228  mv CLI-Obstacle_Course/ ../
+  229  ls
+  230  mv CLI-Obstacle-Course/ ../
+  231  cd ./
+  232  cd ../
+  233  mv CLI-Obstacle-Course/ CLI-Obstacle-Course-v2
+  234  ls
+  235  cd CLI-Obstacle-Course-v2
+  236  ls
+  237  mv CLI-Obstacle-Course/ ../CLI-Obstacle-Course
+  238  ls
+  239  cd ..
+  240  ls
+  241  cd cLI-Obstacle-Course
+  242  ls
+  243  cd CLI-Obstacle-Course
+  244  ls
+  245  cd ..
+  246  rm CLI-Obstacle-Course-v2/
+  247  rm CLI-Obstacle-Course-v2
+  248  rmdir CLI-Obstacle-Course-v2
+  249  ls
+  250  cd CLI-Obstacle-Course
+  251  ls
+  252  find
+  253  ls -a
+  254  find -a
+  255  ls -l
+  256  ls -R -l
+  257  ls -R
+  258  ls -l
+  259  ls
+  260  mv images/ app/assets/
+  261  ls
+  262  cd app
+  263  ls
+  264  cd assets
+  265  ls
+  266  cd images
+  267  ls
+  268  cd ../
+  269  ls
+  270  cd ../
+  271  ls
+  272  cd views
+  273  ls
+  274  cd static_pages
+  275  ls
+  276  ls -l
+  277  ls
+  278  ls
+  279  ls
+  280  mv new.html.erb ../
+  281  ls
+  282  mv ../new.html.erb ./
+  283  ls
+  284  mv 'this_is_the_annoying_ping_pong_text!.txt' ../
+  285  ls
+  286  cd ..
+  287  ls
+  288  cd static_pages
+  289  ls
+  290  mv ../'this_is_the_annoying_ping_pong_text!.txt' ./
+  291  ls
+  292  mv 'this_is_the_annoying_ping_pong_text!.txt' 'where_am_you?.txt'
+  293  ls
+  294  mv 'where_am_you?.txt' 'where_am_i?.txt'
+  295  ls
+  296  .
+  297  pwd
+  298  pwd > 'where_am_i?.txt'
+  299  gedit 'where_am_i?.txt'
+  300  cd
+  301  find 'static_pages_controller.rb'
+  302  cd Downloads
+  303  ls
+  304  cd CLI-Obstacle-Course
+  305  ls
+  306  find 'static_pages_controller.rb'
+  307  find 'static_pages_controller.rb' -R
+  308  find 'static_pages_controller.rb' -r
+  309  locate 'static_pages_controller.rb'
+  310  ls
+  311  find 'static_pages_controller.rb' -name
+  312  find name 'static_pages_controller.rb'
+  313  find -name 'static_pages_controller.rb'
+  314  mv ./app/helpers/static_pages_controller.rb ./app/controllers/
+  315  ls
+  316  cd app
+  317  cd controllers
+  318  ls
+  319  cd ../..
+  320  find -name *controller*
+  321  find -name controller*
+  322  find -name controller
+  323  find -name *controller
+  324  find -name *controller*
+  325  cd ./app/controllers
+  326  ls
+  327  cd ../..
+  328  find -name *controller*
+  329  find -name *controller* -l
+  330  find -name *controller* -r
+  331  find -name *controller* -R
+  332  find . -name "*controller*"
+  333  find -name "*controller*"
+  334  grep 'bootinator' -R
+  335  grep 'bootinator' 
+  336  cd Downloads
+  337  ls
+  338  cd CLI-Obstacle-Course
+  339  ls
+  340  grep 'bootinator' -r
+  341  mv ./app/assets/stylesheets/application_helper.rb ./app/helpers/
+  342  ls
+  343  cd app/helpers
+  344  ls
+  345  cd ..
+  346  cd ..
+  347  ls
+  348  rmdir delete_me
+  349  rm 'delete_me'
+  350  ls
+  351  rmdir delete_me/
+  352  rm delete_me/
+  353  rm -rf delete_me/
+  354  ls
+  355  find -name "*winning.rb"
+  356  cp ./config/environments/you_are_winning.rb ./
+  357  ls
+  358  pwd
+  359  mv "you_are_winning.rb" home/charlie
+  360  mv "you_are_winning.rb" /home/charlie
+  361  cd
+  362  ls
+  363  ruby "you_are_winning.rb"
+  364  history
+  365  history 72
+  366  history 173
+  367  ls
+  368  ruby "you_are_winning.rb"
+  369  history 175 > "cli-obstacle-course.txt"
